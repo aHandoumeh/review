@@ -1,0 +1,4 @@
+*.log
+!ahmad.log
+myFolder/
+sameer.docx
